@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://ani8727.github.io/DSA_Learing_Hub",
+  "homepage": "https://ani8727.github.io/dsa_learning_hub",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
