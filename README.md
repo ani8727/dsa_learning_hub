@@ -2,7 +2,7 @@
 
 A practical learning platform for Data Structures and Algorithms, organized by problem-solving patterns.
 
-🌐 **Live Site:** [https://ani8727.github.io/dsa_learning_hub/](https://ani8727.github.io/DSA_Learing_Hub/)
+🌐 **Live Site:** [https://ani8727.github.io/dsa_learning_hub/](https://ani8727.github.io/dsa_learning_hub/)
 
 ## About
 
